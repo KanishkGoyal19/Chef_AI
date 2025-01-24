@@ -4,7 +4,7 @@ export default function Header() {
             <div className="flex items-center">
                 <img
                     className="w-9 h-9 rounded-full border-2 border-white mr-2"
-                    src="src/assets/images/images.png"
+                    src="/images.png"
                     alt="Chef Claude Logo"
                 />
                 <h1 className="text-white text-lg font-bold">Chef Claude</h1>
